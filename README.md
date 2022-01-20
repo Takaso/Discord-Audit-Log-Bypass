@@ -12,5 +12,8 @@ Use the package manager [pip](https://pip.pypa.io/en/stable/) to install all mod
 ## Errors
 Contact me on YouTube if found any troubles
 
+## Showcase
+[Showcase video](https://www.youtube.com/watch?v=-WWpDt-tMDc)
+
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
