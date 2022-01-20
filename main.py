@@ -1,3 +1,5 @@
+# coding: utf-8
+
 import threading; import requests; import json; import time; import random
 
 Guild_ID = input("Guild ID > ")
@@ -53,3 +55,4 @@ def Audit_Hang():
         t.start()
 
 Audit_Hang()
+# you can use it as much you want, just give credits
