@@ -4,7 +4,7 @@ import threading; import requests; import json; import time; import random
 
 Guild_ID = input("Guild ID > ")
 t = input("Token >"); headers = {
-  "Authorization": t
+  "Authorization": f"t" # Change this to: "Authorization": f"Bot {t}" | to use a bot token
 }
 
 a = {
