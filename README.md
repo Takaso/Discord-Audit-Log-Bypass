@@ -1,4 +1,4 @@
-# (Patched On User Accounts) Discord-Audit-Log-Bypass
+# (Unpatched) Discord-Audit-Log-Bypass
 Simple way to create channels on a discord server without anything being logged from the audit logs
 
 ## Installation
